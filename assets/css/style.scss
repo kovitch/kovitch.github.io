@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+.wrapper {
+	max-width: 660px;
+}
+
+section {
+	max-width: 660px;
+}
+
 #header, #title {
 	display: none;
 } 
